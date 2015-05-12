@@ -160,12 +160,12 @@
     </video>
   </videos>
   <featured>
+   <id>9b1a9ac2-0825-433c-81f1-63e3669c2962</id>
+   <id>9c39b011-8cfa-446d-873f-f07dd2cffa37</id>   
    <id>3146911c-a6aa-4aeb-883b-51dd42524406</id>
    <id>04b03ddb-48ff-471e-a74f-03950694e015</id>
    <id>649347b1-bfde-4d53-a79e-c25a54b66833</id>
    <id>7994a337-7253-4ecd-938a-753cba5e1424</id>
-   <id>0aa74861-a6bb-4b51-891e-2b2d7d216722</id>
-   <id>68f21ddd-b8cb-4763-86d1-ac3025a8ea9d</id>	
   </featured>
   <masterListPath>masterListV2.xml</masterListPath>
 </manifest>
