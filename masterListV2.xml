@@ -2,46 +2,6 @@
 <masterList>
   <date>2012-10-25T17:06:00</date>
   <appList>
-    <app>
-      <name>Saski Studio Calculator</name>
-      <review>0</review>
-      <free>¡Aplicación Gratuita!</free>
-      <tweet><![CDATA[Haz que los peques se vuelvan locos por las mates con Saski: ¡aprender a contar no sólo es fácil sino que es más divertido que nunca!]]></tweet>
-      <bitly>http://bit.ly/SS_Cal</bitly>
-      <id>9b1a9ac2-0825-433c-81f1-63e3669c2962</id>
-      <priority>290515</priority>
-      <categories>
-        <category>Kids</category>
-        <category>Featured</category>
-        <category>3 a 5 años</category>
-        <category>5 a 8 años</category>
-        <category>9 a 12 años</category>
-        <category>Matemáticas</category>
-      </categories>
-      <filters />
-      <url>http://familiawindowsphone.com/las-mejores-aplicaciones-educativas-para-ninos-para-aprender-matematicas-en-windows-phone-a-math-facts/</url>
-      <rating>0</rating>
-      <related />
-    </app>
-   <app>
-      <name>BizXpert Invoice and Inventory</name>
-      <review>0</review>
-      <free>¡Aplicación Gratuita!</free>
-      <tweet><![CDATA[¡Crea, envía e imprime facturas fácilmente con BizXpert! ¡Podrás manejar tus gastos, realizar inventarios, horarios y mucho más!]]></tweet>
-      <bitly>http://bit.ly/1OZTu2R</bitly>
-      <id>9c39b011-8cfa-446d-873f-f07dd2cffa37</id>
-      <priority>290415</priority>
-      <categories>
-        <category>Parents</category>
-        <category>Featured</category>
-        <category>Productividad</category>
-		<category>Finanzas</category>
-      </categories>
-      <filters />
-      <url>http://familiawindowsphone.com/aplicacion-para-el%C2%A0-seguimiento-de-presupuesto-finanzas-windows-phone-budget-buddy/</url>
-      <rating>false</rating>
-      <related />
-    </app>
  <app>
       <name>Forestry</name>
       <review>0</review>
