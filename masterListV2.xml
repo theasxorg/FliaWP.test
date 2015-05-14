@@ -23,6 +23,25 @@
       <rating>0</rating>
       <related />
     </app>
+   <app>
+      <name>BizXpert Invoice and Inventory</name>
+      <review>0</review>
+      <free>¡Aplicación Gratuita!</free>
+      <tweet><![CDATA[¡Crea, envía e imprime facturas fácilmente con BizXpert! ¡Podrás manejar tus gastos, realizar inventarios, horarios y mucho más!]]></tweet>
+      <bitly>http://bit.ly/1OZTu2R</bitly>
+      <id>9c39b011-8cfa-446d-873f-f07dd2cffa37</id>
+      <priority>290415</priority>
+      <categories>
+        <category>Parents</category>
+        <category>Featured</category>
+        <category>Productividad</category>
+	<category>Finanzas</category>
+      </categories>
+      <filters />
+      <url>http://familiawindowsphone.com/aplicacion-para-el%C2%A0-seguimiento-de-presupuesto-finanzas-windows-phone-budget-buddy/</url>
+      <rating>0</rating>
+      <related />
+    </app>
  <app>
       <name>Forestry</name>
       <review>0</review>
